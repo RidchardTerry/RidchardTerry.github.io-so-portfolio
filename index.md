@@ -14,7 +14,7 @@
 ---
 
 ## CV/Resume
-[Click here to blink to my Resume](/pdf/Resume_Pattanan2026.pdf)
+[Click here to blink to my Resume](/pdf/Resume_2Pattanan2026.pdf)
 
 ---
 <p style="font-size:11px">Special thanks: Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
