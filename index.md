@@ -3,7 +3,7 @@
 ## Projects I’ve been part of 
 ### Burning Sword : Death Sun
 ---
-[Burning Sword Death Sun - Game designer 2023-2025](/sample_page)<br>
+[Burning Sword Death Sun - Game designer (Click fore more detail)](/sample_page)<br>
 <img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
@@ -14,7 +14,7 @@
 ---
 
 ## CV/Resume
-[Click here to blink to my Resume](/pdf/Resume_2Pattanan2026.pdf)
+[Click here to blink to my Resume / CV](/pdf/Resume_2Pattanan2026.pdf)
 
 ---
 <p style="font-size:11px">Special thanks: Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
