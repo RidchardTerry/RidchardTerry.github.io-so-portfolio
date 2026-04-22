@@ -8,7 +8,7 @@
 
 ---
 ### Tales Of Harmony : My personal project (Pre-production)<br>
-[Example of Game Design document (PDF)](/pdf/Example_of_GDD _TOH_compressed.pdf)<br>
+[Example of Game Design document (PDF)](/pdf/Example_of_GDD_TOH_compressed.pdf)<br>
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
