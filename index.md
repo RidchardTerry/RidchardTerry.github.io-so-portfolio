@@ -7,8 +7,8 @@
 <img src="images/BurningSword-Thumbnail.png?raw=true"/>
 
 ---
-### Tales Of Harmony : My personal project (Drive) (Pre-production)<br>
-[Example of Game Design document](https://drive.google.com/file/d/1teT03eZit07Q1DFuPKYsee6jonS1dyGK/view?usp=drive_link)<br>
+### Tales Of Harmony : My personal project (Pre-production)<br>
+[Example of Game Design document (Drive)](https://drive.google.com/file/d/1teT03eZit07Q1DFuPKYsee6jonS1dyGK/view?usp=drive_link)<br>
 <img src="images/TalesOfHarmony-Thumbnail.png?raw=true"/>
 
 ---
